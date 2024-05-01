@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mchekalov/urlshortener/internal/config"
+	"urlshortener/internal/config"
 )
 
 func main() {
